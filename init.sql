@@ -1,0 +1,2 @@
+CREATE USER maxime;
+ALTER USER maxime WITH SUPERUSER;
